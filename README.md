@@ -1,2 +1,2 @@
-# diplomski
-Diplomski rad
+# Diplomski rad
+
