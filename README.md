@@ -360,7 +360,7 @@ Kroz ovaj projekat, naučio sam:
 - ✅ GPU programiranje sa PyTorch
 - ✅ Statističku analizu (korelacije, p-values)
 - ✅ Mašinsko učenje best practices
-- ✅ Git version control i colaboration
+- ✅ Git version control i collaboration
 
 ---
 
