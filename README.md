@@ -7,7 +7,7 @@
 **Diplomski rad** | Fakultet tehničkih nauka, Novi Sad  
 **Autor:** Boris Letić (RA 207/2021)  
 **Mentor:** dr Dušan Gajić  
-**Godina:** 2024/2025
+**Godina:** 2025
 
 ---
 
@@ -169,16 +169,7 @@ python -m src.evaluation
 
 ## 📊 Dataset
 
-⚠️ **Dataset nije uključen u repo zbog veličine.**
-
-### Generisanje Dataseta:
-```bash
-python generate_bitcoin_tweets.py
-```
-
-Ovo će kreirati `bitcoin_tweets_5000.csv` sa sintetičkim Bitcoin tweetovima.
-
-### Ili Preuzmi Pravi Dataset:
+### Preuzmi Pravi Dataset:
 - [Kaggle - Bitcoin Tweets Dataset](https://www.kaggle.com/datasets/kaushiksuresh147/bitcoin-tweets)
 - Sačuvaj u: `data/raw/bitcoin_tweets.csv`
 
@@ -313,13 +304,8 @@ Ovaj projekat je licenciran pod **MIT licencom** - videti [LICENSE](LICENSE) faj
 ## 📞 Kontakt
 
 **Boris Letić**  
-- 📧 Email: boris.letic@example.com
 - 🔗 LinkedIn: [Boris Letić](https://linkedin.com/in/borisletic)
 - 🐙 GitHub: [@borisletic](https://github.com/borisletic)
-
-**Fakultet tehničkih nauka**  
-- 🏛️ Univerzitet u Novom Sadu
-- 🌐 Website: [ftn.uns.ac.rs](https://ftn.uns.ac.rs)
 
 ---
 
@@ -384,6 +370,6 @@ Kroz ovaj projekat, naučio sam:
 
 **Fakultet tehničkih nauka, Novi Sad 🎓**
 
-*2024/2025*
+*2025*
 
 </div>
