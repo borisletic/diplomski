@@ -1,4 +1,4 @@
-# 📊 Analiza Sentimenta Kripto Zajednice na Društvenim Mrežama
+# 📊 Analiza Sentimenta Kripto Zajednice na Društvenim Mrežama Pomoću Mašinskog Učenja
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
