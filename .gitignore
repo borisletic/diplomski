@@ -34,14 +34,14 @@ MANIFEST
 */.ipynb_checkpoints/*
 
 # Data files (veliki fajlovi)
-*.csv
-*.json
+#*.csv
+#*.json
 *.xlsx
 *.xls
-data/raw/*
-data/processed/*
-!data/raw/.gitkeep
-!data/processed/.gitkeep
+#data/raw/*
+#data/processed/*
+#!data/raw/.gitkeep
+#!data/processed/.gitkeep
 
 # Models (obično su veliki)
 results/models/*

@@ -1,0 +1,42 @@
+{
+  "analysis_date": "2025-11-12 02:51:49",
+  "data_period": {
+    "start": "2024-01-25",
+    "end": "2024-05-09",
+    "num_days": 106
+  },
+  "sentiment_stats": {
+    "mean": -0.04197656348175658,
+    "std": 0.04900764253277502,
+    "min": -0.14683710456337418,
+    "max": 0.09210247939809897
+  },
+  "correlations": {
+    "sentiment_vs_price": {
+      "pearson": {
+        "r": 0.09421171998166776,
+        "p": 0.3367498750040128
+      },
+      "spearman": {
+        "r": 0.1214550217900597,
+        "p": 0.21489161476063984
+      }
+    },
+    "sentiment_vs_price_change": {
+      "pearson": {
+        "r": -0.009706311243941189,
+        "p": 0.9213367585998128
+      },
+      "spearman": {
+        "r": -0.06169231931884022,
+        "p": 0.5298538961619876
+      }
+    }
+  },
+  "lag_analysis": {
+    "best_lag_days": 6,
+    "best_correlation": 0.22620673681680564,
+    "best_p_value": 0.023632832019180063,
+    "interpretation": "price leads"
+  }
+}
