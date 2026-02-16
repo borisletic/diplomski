@@ -1,3 +1,3 @@
 # Sentiment Analysis of a Crypto Community on Social Networks Using Machine Learning
 
-
+Thesis only available in Serbian, too lazy to translate to English, not really cutting-edge anyway...
